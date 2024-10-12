@@ -1,0 +1,14 @@
+.icon-large {
+    font-size: 3rem;
+  }
+
+.icon-xlarge {
+    font-size: 5rem;
+}
+
+.outline-icon {
+    fill: none; 
+    stroke: currentColor;
+    stroke-width: 5;  
+    color: var(--secondary-color);
+}
